@@ -167,3 +167,40 @@ img{
     color:#798;
     font-size:13px;
 }
+
+.pricing-section{
+    width:100%;
+    margin:100px auto;
+}
+
+.pricing-title{
+    text-align:center;
+    font-size:40px;
+    font-weight:800;
+    margin-bottom:12px;
+}
+
+.pricing-subtitle{
+    text-align:center;
+    font-size:18px;
+    color:#777;
+    margin-bottom:50px;
+}
+
+.pricing-card-parent{
+    display:flex;
+    justify-content:space-between;
+    gap:30px;
+}
+
+.outline-button{
+    width:100%;
+    padding:14px;
+    border:2px solid #3563ff;
+    background:white;
+    color:#3563ff;
+    border-radius:8px;
+    font-weight:bold;
+    cursor:pointer;
+}
+
