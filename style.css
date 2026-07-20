@@ -250,3 +250,30 @@ img{
     cursor:pointer;
 }
 
+.pro-card{
+    width:32%;
+    padding:35px;
+    border-radius:15px;
+    background:#0f1b2d;
+    color:white;
+    text-align:left;
+}
+
+.pro-card .plan,
+.pro-card .person,
+.pro-card li{
+    color:#d1d5db;
+}
+
+.pro-card .price{
+    color:white;
+}
+
+.pro-card hr{
+    border-color:#334155;
+}
+
+.pro-card .common-button{
+    width:100%;
+}
+
