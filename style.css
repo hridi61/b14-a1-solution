@@ -204,3 +204,49 @@ img{
     cursor:pointer;
 }
 
+.standard-card{
+    width:32%;
+    padding:35px;
+    border:1px solid #ddd;
+    border-radius:15px;
+    background:#fff;
+    text-align:left;
+}
+
+.plan{
+    color:#777;
+    font-size:16px;
+    font-weight:bold;
+}
+
+.price{
+    font-size:60px;
+    font-weight:800;
+    margin:15px 0;
+}
+
+.person{
+    color:#777;
+    margin-bottom:20px;
+}
+
+.price-list{
+    margin:20px 0;
+    padding-left:20px;
+}
+
+.price-list li{
+    margin-bottom:15px;
+}
+
+.outline-button{
+    width:100%;
+    padding:14px;
+    border:2px solid #3563ff;
+    background:#fff;
+    color:#3563ff;
+    border-radius:8px;
+    font-weight:bold;
+    cursor:pointer;
+}
+
