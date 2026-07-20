@@ -309,3 +309,40 @@ img{
 }
 
 
+.faq{
+    width:70%;
+    margin:60px auto;
+}
+
+.faq h2{
+    text-align:center;
+    font-size:40px;
+}
+
+.faq p{
+    text-align:center;
+    color:gray;
+    margin-bottom:30px;
+}
+
+details{
+    background:#fff;
+    margin:15px 0;
+    padding:15px;
+    border-radius:8px;
+    box-shadow:0 2px 8px rgba(0,0,0,.1);
+}
+
+summary{
+    cursor:pointer;
+    font-weight:bold;
+    font-size:18px;
+}
+
+details p{
+    text-align:left;
+    margin-top:10px;
+    color:#555;
+}
+
+
